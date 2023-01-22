@@ -1,2 +1,2 @@
 # sample
-1st app
+1st react app
