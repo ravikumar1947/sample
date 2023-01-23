@@ -1,2 +1,2 @@
 # sample
-1st react app
+1st react mini book
